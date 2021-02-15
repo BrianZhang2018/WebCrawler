@@ -1,0 +1,7 @@
+/bin/
+*.class
+*/workspace.xml
+out/product*
+.idea
+my-app.iml
+target/
